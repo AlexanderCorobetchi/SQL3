@@ -1,1 +1,3 @@
-# SQL3
+SELECT *
+FROM delivery
+WHERE quantity = 1;
